@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarthak Gupta</title>
+    <link>https://mr-sarthakgupta.github.io/tags/about/index.xml</link>
+    <description>Recent content on Sarthak Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://mr-sarthakgupta.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://mr-sarthakgupta.github.io/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://mr-sarthakgupta.github.io/about/</guid>
+      <description>&lt;p&gt;I am currently a PhD student at &lt;a href=&#34;https://ai.stanford.edu/&#34;&gt;&lt;strong&gt;Stanford&lt;/strong&gt;&lt;/a&gt;, being advised by &lt;a href=&#34;https://ai.stanford.edu/~cbfinn/&#34;&gt;&lt;strong&gt;Chelsea Finn&lt;/strong&gt;&lt;/a&gt;. I am broadly interested in Deep Reinforcement Learning and Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;Previously, I was an AI resident at &lt;a href=&#34;https://ai.google/research/teams/brain&#34;&gt;&lt;strong&gt;Google Brain&lt;/strong&gt;&lt;/a&gt;. I graduated from &lt;a href=&#34;http://www.iitk.ac.in/&#34;&gt;&lt;strong&gt;IIT Kanpur&lt;/strong&gt;&lt;/a&gt; with a Bachelors in &lt;a href=&#34;http://www.iitk.ac.in/ee/&#34;&gt;&lt;strong&gt;Electrical Engineering&lt;/strong&gt;&lt;/a&gt; and minors in Machine Learning and Linguistic Theory. At IIT Kanpur, I worked with &lt;a href=&#34;https://www.cse.iitk.ac.in/users/piyush/&#34;&gt;&lt;strong&gt;Dr. Piyush Rai&lt;/strong&gt;&lt;/a&gt;. As a research intern at &lt;a href=&#34;https://mila.umontreal.ca/&#34;&gt;&lt;strong&gt;Montreal Institute of Learning Algorithms (MILA)&lt;/strong&gt;&lt;/a&gt;, I worked with &lt;a href=&#34;http://www.iro.umontreal.ca/~bengioy/yoshua_en/&#34;&gt;&lt;strong&gt;Dr. Yoshua Bengio&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- I hail from the holy city of [**Amritsar, Punjab**](https://en.wikipedia.org/wiki/Amritsar). Just like many other math oriented students in India, I decided to give [**JEE**](https://en.wikipedia.org/wiki/Joint_Entrance_Examination) in 2014. I did decently well, securing AIR 376 after two years of toil, which landed me in Electrical Engineering at IIT Kanpur. --&gt; 
+
+&lt;!-- _Why Electrical @ IIT Kanpur?_ That constitutes a separate discussion. It suffices to say though that Electrical Engineering has been more than gratifying for me as an undergraduate. --&gt;
+
+&lt;!-- I maintain a secondary interest in Competitive Programming. I qualified for [**ACM ICPC India Regionals 2016**](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) in Amritapuri and Chennai, securing 63 rank in the online qualification round. --&gt;
+
+&lt;!-- I fiddle with the guitar from time to time, which is a part of a general interest in music. I am always free to have a conversation or take/give recommendations for progressive and metal music. I was also, sometime in 21st century, fairly regular with Lawn Tennis. --&gt;
+
+&lt;!-- In Summer of 2016, I got to intern in [Texas A&amp;M University](https://www.tamu.edu/), supervised by [Dr. Srinivas Shakkottai](http://cesg.tamu.edu/faculty/sshakkot/). We worked on analyzing the privacy of a user in a DSRC environment, which enables vehicle to vehicle/infrastructure communication, using a combination of analytical and machine learning tools. --&gt;
+
+&lt;p&gt;For more details pertaining to my academics and projects, please refer to my &lt;a href=&#34;https://mr-sarthakgupta.github.io/cv.pdf&#34;&gt;&lt;strong&gt;CV&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
